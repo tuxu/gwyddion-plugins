@@ -22,6 +22,13 @@ active container. The exported files follow the scheme
 title. The export dialog is shown for the first datafield, and the same settings
 are used for further exports.
 
+### `isolate_channel.py`
+
+- **Menu**: `Plug-ins/Isolate channel`
+- **Short description**: Isolate the selected channel into a new container.
+- **Description**: The plugin creates a new container with a copy of the
+selected data field and all its related metadata.
+
 ## License
 
 This project is licensed under the MIT license.
