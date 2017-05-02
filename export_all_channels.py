@@ -31,7 +31,7 @@ import os
 import gwy
 
 plugin_menu = "/Plug-ins/Export all channels"
-plgin_desc = "Export all channels"
+plugin_desc = "Export all channels"
 plugin_type = "PROCESS"
 
 OUTPUT_SUFFIX = '-out'
